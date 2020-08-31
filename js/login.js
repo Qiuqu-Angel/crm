@@ -42,6 +42,6 @@ $(function () {
            window.location.href="index.html";
            return
        }
-        alert("用户名或密码出错")
+        // alert("用户名或密码出错")
     })
 })
